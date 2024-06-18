@@ -1,42 +1,25 @@
-### Hi there, My name is Diego Vélez👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diego Vélez
+===================================================================================================================================
 
-<!--
-**diegoavelez/diegoavelez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System Engineer and Data Scientist
+----------------------------------
 
-Here are some ideas to get you started:
+System Engineer and Data Scientist, marketing specialist with a background in international relations and project management that helped me lead teams, analyze data on a large scale, build value propositions, and seize business opportunities globally. Knowledgeable in agile methodologies, workflows, data structure, model evaluation, and machine learning. Interested in deep learning and developing as an artificial intelligence engineer. Experienced in Python, data architecture, report generation, dashboards, and databases using tools such as PowerBI, Tableau, MySQL, and Google Cloud Platform. Possessing creative thinking, problem-solving skills, teamwork, empathy, and agile learning. English Level: C2 Advanced Certified. If you believe I can contribute to your project, do not hesitate to contact me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* 🌍  I'm based in Medellín, Colombia
+* ✉️  You can contact me at [d.alejandrovelez@gmail.com](mailto:d.alejandrovelez@gmail.com)
+* 🧠  I'm learning Deep Learning and AI
+* 🤝  I'm open to collaborating on Data Science Projects
+* ⚡  Fun fact: I love music, reading books, and video games
 
--->
+### Skills
 
-- 🔭 I’m currently working on international cooperation and city diplomacy 🇨🇴
-- 🌱 I’m currently learning Data Science and Analytics 🤣
-- 👯 I’m looking to collaborate with other data science projects
-- 🥅 2024 Goals: Becoming a AI Engineer and contributing to the 2030 Agenda (SDG)
-- ⚡ Fun fact: I love music, reading books, and videogames
 
-### Connect with me:
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
 
-[<img align="left" alt="diegoavelezm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
-<br />
+### Socials
 
-### Languages and Tools:
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>]
-[<img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"/>]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>]
-[<img align="left" alt="Google Cloud Platform" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"/>]
-[<img align="left" alt="Streamlit" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg"/>]
-
-[linkedin]: https://www.linkedin.com/in/diegoavelezm/
+<p align="left"> <a href="https://www.github.com/diegoavelez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/diegoavelez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/diegoavelez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
