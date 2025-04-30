@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diego Vélez
 ===================================================================================================================================
 
-🎓 System Engineer & Data Scientist | 📊 AI Engineer in Progress
+## 🎓 System Engineer & Data Scientist | 📊 AI Engineer in Progress
 
 System Engineer and Data Scientist with a background in marketing, international cooperation, and project management.  
 I help teams unlock business value through data analysis, machine learning, and AI-driven solutions.
