@@ -16,7 +16,7 @@ I’m currently building a portfolio of end-to-end AI projects that combine **te
 📈 Final model (XGBoost) reached **0.77 R²** accuracy  
 🔍 Includes EDA, feature engineering, model tuning, and business recommendations
 
-👉 [View the project on GitHub](https://github.com/diegoavelez/demand-forecasting-ai-project)
+👉 [View the project on GitHub](https://github.com/diegoavelez/Sales-Forecasting-Superstore)
 
 ---
 
